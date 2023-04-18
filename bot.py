@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 
 too_many_requests = [False]
-TOKEN = "5769190272:AAG75MUv1hyZnTyI3O47rIdakbFSVsXcZfE"
+TOKEN = "your TOKEN"
 # user_agent = UserAgent()
 
 
